@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "eoKsmmnitQg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wikid\\ProjektyLab\\ApiGateway\\zadanie\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wikid\\.nuget\\packages\\microsoft.extensions.logging.console\\10.0.8\\microsoft.extensions.logging.console.10.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Logging.Console will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\wikid\\ProjektyLab\\ApiGateway\\zadanie\\ApiGateway.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\wikid\\ProjektyLab\\ApiGateway\\zadanie\\ApiGateway.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Console",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
